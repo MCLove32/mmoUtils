@@ -1,0 +1,4 @@
+name: mmoUtils
+version: '${project.version}'
+main: azisaba.net.mmoutils.MMOUtils
+api-version: '1.20'
